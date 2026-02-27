@@ -1,0 +1,24 @@
+{
+  "name": "projeto-base-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruirnunes/Projeto-III.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ruirnunes/Projeto-III/issues"
+  },
+  "homepage": "https://github.com/ruirnunes/Projeto-III#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
